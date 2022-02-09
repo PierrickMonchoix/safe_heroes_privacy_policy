@@ -1,46 +1,53 @@
-Privacy Policy  
-----------------
+# Privacy Policy  / Politique de confidentialité
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at SafeHeroes, how SafeHeroes uses it, and what choices you have.
-SafeHeroes built the SafeHeroes app as a free app. This SERVICE is provided by SafeHeroes at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+French version / Version française :
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+## Introduction
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+SafeHeroes est une application mobile ayant pour objectif de prévenir un proche si vous êtes en danger après avoir effectué une activité. SafeHeores est développée par Pierrick Monchoix en tant que projet personnel. Cette politique de confidentialité a pour but de lister de manière exhaustive les données personnelles utilisées par SafeHeroes et indiquer pourquoi et comment elles sont traitées. De plus, il sera indiqué de quelles permissions SafeHeroes a besoin pour fonctionner et pourquoi.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+## Permissions nécessaires
+SafeHeroes a besoin de deux permissions (demandées à l'utilisateur) pour fonctionner : 
+- La localisation en temps réel de votre téléphone y compris quand SafeHeroes est tache de fond (ou que le téléphone est en veille).
+- L'envoie automatique de SMS (sans passer par une manipulation de votre part).
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+Lorsque vous êtes considéré en danger, SafeHeroes envoie par SMS votre localisation à un proche que vous avez choisi par son numéro de téléphone.
+SafeHeroes vous considère en danger quand vous êtes parti depuis une durée supérieure à celle que vous avez indiqué sans prévenir SafeHeroes que vous êtes revenu sain et sauf de votre activité.
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+SafeHeroes est conçu fonctionner en tache de fond pour que vous puissiez mettre en veille votre téléphone lorsque vous pratiquez votre activité. Dans la majorité des cas, SafeHeroes vous considérera en danger quand votre téléphone sera en veille et aura besoin d'accéder à votre localisation à ce moment précis. Pour cela, il faut que vous ayez autorisé SafeHeroes à accéder à votre localisation quand SafeHeroes est en tache de fond ("Toujours autoriser l'accès à la localisation").
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+Cette localisation sera envoyée par SMS au proche sélectionné. Vous avez donc besoin d'autoriser SafeHeroes à envoyer des SMS automatiquement (sans passer par une manipulation de votre part).
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
+## Utilisation des informations personnelles
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+SafeHeroes a besoin de deux données personnelles pour fonctionner : 
+- Votre localisation en temps réel
+- Le numéro de téléphone d'un proche
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+Voici pourquoi ces deux informations sont importantes pour le fonctionnement de SafeHeroes.
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+Lorsque vous êtes considéré en danger*, SafeHeroes envoie votre localisation par SMS à un proche que vous avez choisi par son numéro de téléphone.
+Votre localisation est donc uniquement envoyée à cette personne de confiance. Elle n'est ni envoyé à quelque d'autre (ou une autre entité), ni stockée ni conservée d'aucune manière que ce soit. Dès lors que vous fermez SafeHeroes, SafeHeroes n'a aucun moyen d'accéder au numéro de téléphone de votre proche. Ce numéro n'est ni envoyé (à une personne ou autre entité) ni stockée, ni conservée d'aucune manière que ce soit.
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: [pierrick.monchoix@gmail.com] 
+(*) SafeHeroes vous considère en danger quand vous êtes parti depuis une durée supérieure à celle que vous avez indiqué sans prévenir SafeHeroes que vous êtes revenu sain et sauf de votre activité.
+
+## Collecte des informations personnelles
+Les données personnelles collectées par SafeHeroes sont : 
+- Votre localisation en temps réel
+- Le numéro de téléphone d'un proche
+L’accès à votre localisation en temps réel est fait automatiquement par le service de localisation de votre téléphone après qu’un chronomètre (visible en temps réel et dont la valeur initiale est saisie par vous) tombe à zéro.
+Le numéro de téléphone de votre proche est inscrit par vous par le biais d’un champ de texte à remplir.
+
+
+## Cookies  
+Aucun cookie n'est ni utilisé ni collecté par SafeHeroes.
+
+## Autres utilisations de vos données personnelles 
+Aucune autre donnée personnelles n'est accédée par SafeHeroes que celles citées précédemment.
+Aucune autre manipulation des données personnelles utilisées n'est faite par SafeHeroes.
+
+## Changement de la politique de confidentialité
+Cette politique de confidentialité ne peut être modifiée que lors d'un changement de version de SafeHeroes sur le Playstore. Si tel est le cas, vous en serez informé par un popup clairement visible dans SafeHeroes.
+
+## Contact
+Si vous avez des questions sur cette politique de confidentialité, n'hésitez pas à envoyer un mail à : pierrick.monchoix@gmail.com
